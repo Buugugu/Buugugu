@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Buugugu
-- frpm Earth
+- from Earth
 - wantv to creat a game,
 - which have funnel_unit with ex_visual_field, many mod pacl,and...
 - overall,many critive and interesting with fantastic "the balance" make player enjoyable and challenge.
